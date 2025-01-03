@@ -22,3 +22,60 @@ This tool is useful for cybersecurity professionals and researchers to analyze a
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/cybersecurity-attack-graph.git
+   ```
+   
+2. Navigate into the project directory:
+   ```bash
+   cd cybersecurity-attack-graph
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Run the development server:
+   ```bash
+   npm start
+   ```
+
+The app will be available at `http://localhost:3000`.
+
+## Usage
+- **Interact with the Graph**: Zoom in/out and pan around using mouse controls.
+- **Select Nodes**: Click on any node to view detailed information.
+- **Node Details**: Information about each node will be shown in the sidebar when clicked.
+
+## Contributing
+We welcome contributions to improve the functionality and design of the **Cybersecurity Attack Graph**. If you'd like to contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and push them to your fork.
+4. Open a pull request with a clear description of the changes.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- [Cytoscape.js](https://js.cytoscape.org/) for the powerful graph visualization library.
+- [React](https://reactjs.org/) for building interactive user interfaces.
+- [TailwindCSS](https://tailwindcss.com/) for efficient and customizable styling.
+```
+
+### Steps to Create the README:
+1. Open a text editor (VSCode, Sublime Text, etc.).
+2. Create a new file named `README.md`.
+3. Copy and paste the above content into the `README.md` file.
+4. Save the file in the root of your project directory.
+
+### Explanation of Sections:
+- **Project Description**: Briefly describes what the project is and its purpose.
+- **Features**: Lists the key functionalities provided by the app.
+- **Technologies Used**: Mentions the libraries and frameworks used in the project.
+- **Installation**: Step-by-step instructions to clone the repo, install dependencies, and run the application.
+- **Usage**: Explains how to interact with the app once it's running.
+- **Contributing**: Provides instructions for people who want to contribute to the project.
+- **License**: Indicates the type of license under which the project is shared (MIT in this case).
+- **Acknowledgments**: Credits the libraries and tools used to build the project.
+
+Let me know if you'd like to modify or add anything else!
