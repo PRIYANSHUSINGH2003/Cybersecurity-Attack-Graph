@@ -60,7 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Cytoscape.js](https://js.cytoscape.org/) for the powerful graph visualization library.
 - [React](https://reactjs.org/) for building interactive user interfaces.
 - [TailwindCSS](https://tailwindcss.com/) for efficient and customizable styling.
-```
 
 ### Steps to Create the README:
 1. Open a text editor (VSCode, Sublime Text, etc.).
